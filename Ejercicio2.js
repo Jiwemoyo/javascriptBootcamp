@@ -9,3 +9,5 @@ const libroFavorito={
     fechaPublicacion:"2006",
     url:"https://es.wikipedia.org/wiki/Harry_Potter_y_el_misterio_del_pr%C3%ADncipe_(pel%C3%ADcula)"
 }
+
+let informacion=[nombre,edad,desarrollador,fechaNacimiento, libroFavorito]
