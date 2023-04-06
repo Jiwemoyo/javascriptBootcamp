@@ -25,3 +25,5 @@ console.log(generador.next().value); // 2
 console.log(generador.next().value); // 4
 console.log(generador.next().value); // 6
 console.log(generador.next().value); // 8
+
+
