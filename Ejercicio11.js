@@ -14,3 +14,5 @@ class Estudiante {
   
   const estudiante1 = new Estudiante('Juan');
   console.log(estudiante1.obtenDatos());
+
+  
